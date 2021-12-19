@@ -17,7 +17,7 @@ public class StringReverse {
 			result = result + input.charAt(i);
 		}
 		
-		System.out.println("Reversed String :" + result);
+		System.out.println("Reversed String is :" + result);
 		sc.close();
 	}
 
