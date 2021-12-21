@@ -4,6 +4,8 @@ public class Stringname {
 	public static void main(String...args) {
 		String n = "vikas      ";
 		String name = "my name is vikas" ;
+		String str = "FLM" ;
+		
 		System.out.println(name.charAt(3));
 		
 		System.out.println(name.length());
