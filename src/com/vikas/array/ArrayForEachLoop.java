@@ -9,7 +9,7 @@ public class ArrayForEachLoop {
 		}
 int []nums = { 5,6,7,8,9} ;
 System.out.println("final ");
-for ( int a: nums) {
+for ( int a : nums ) {
 	System.out.println(a);
 }
 		

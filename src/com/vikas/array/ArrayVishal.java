@@ -15,10 +15,10 @@ public class ArrayVishal {
 						temp = 1;
 					}
 					
-//					if( arr[i] != arr[j] && temp == 0 && count == arr.length-1) {
-//						System.out.println(arr[j] + " is the highest in array");
-//						return;
-//					}
+					if( arr[i] != arr[j] && temp == 0 && count == arr.length-1) {
+						System.out.println(arr[j] + " is the highest in array");
+						return;
+					}
 				}
 				count ++;
 				if( arr[i] != arr[j] && temp == 0  && count == arr.length-1) {

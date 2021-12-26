@@ -18,7 +18,7 @@ public class Array1 {
 		System.out.println("Please enter the size of array :");
 
 		int length = sc.nextInt();
-
+ 
 		int arr2[] = new int[length];
 
 		System.out.println("Please enter the " + length + " numbers");

@@ -3,7 +3,7 @@ package com.vikas.array;
 public class Array3 {
 public static void main(String...args) {
 	  int nums[] = new int [4] ;
-	 int sum = 0 ;
+	 int sum = 1 ;
 	   for (int i = 0 ; i < 4 ; i++) {
 		   sum = sum + i ;
 	   }

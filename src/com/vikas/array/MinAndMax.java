@@ -24,6 +24,14 @@ public class MinAndMax {
 		System.out.println("maximum number in array is ="+ max);
 		
 	}
+	public String max(int[] myArray) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public String min(int[] myArray) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 
 }

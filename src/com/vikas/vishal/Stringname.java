@@ -22,6 +22,15 @@ public class Stringname {
 		System.out.println(name.contains(n));
 		System.out.println(name + n);
 		System.out.println(name.toUpperCase());
+	
+	System.out.println(name + str);
+	System.out.println(name.concat(str));
+	String example = "This is the \"String\" classs ";
+	System.out.println(example);
+	String name1 = new String("Java String");
+
+    System.out.println(name1);  
+
 	}
 	
 	
