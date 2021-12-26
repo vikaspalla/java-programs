@@ -9,9 +9,9 @@ public class BubbleSorting {
 
 	        int[] intArray = { 20, 35, -15, 7, 55, 1, -22 };
 
-	        for (int lastUnsortedIndex = intArray.length - 1; lastUnsortedIndex > 0;
-	                lastUnsortedIndex--) {
-	            for (int i = 0; i < lastUnsortedIndex; i++) {
+	        for (int las = intArray.length - 1; las > 0;
+	                las--) {
+	            for (int i = 0; i < las; i++) {
 	                if (intArray[i] > intArray[i + 1]) {
 	                    swap(intArray, i, i + 1);
 	                }
